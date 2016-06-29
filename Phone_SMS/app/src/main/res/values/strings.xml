@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Phone_SMS</string>
+    <string name="title_activity_my_sms">MySMSActivity</string>
+</resources>

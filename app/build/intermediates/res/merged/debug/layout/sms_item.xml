@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:descendantFocusability="blocksDescendants"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewSmsType"
+            android:layout_marginLeft="5dp"
+            android:textSize="16sp"/>
+
+    <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewSms"
+            android:textSize="16sp"
+            android:layout_alignLeft="@+id/textViewSmsType"
+            android:layout_below="@+id/textViewSmsType"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="5dp"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewSmsName"
+            android:layout_alignLeft="@+id/textViewSmsType"
+            android:layout_below="@+id/textViewSms"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewSmsNumber"
+            android:textSize="14sp"
+            android:layout_alignLeft="@+id/textViewSmsType"
+            android:layout_below="@+id/textViewSmsName"/>
+
+    <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textViewSmsDate"
+            android:textSize="16sp"
+            android:layout_alignLeft="@+id/textViewSmsType"
+            android:layout_below="@+id/textViewSmsNumber"/>
+
+    <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/checkBoxSMS"
+            android:layout_alignRight="@+id/textViewSms"
+            android:layout_alignBottom="@+id/textViewSmsDate"/>
+
+</RelativeLayout>

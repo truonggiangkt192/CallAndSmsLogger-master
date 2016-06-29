@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/send_email" android:id="@+id/menuSend"/>
+    <item android:title="@string/save_sd" android:id="@+id/menuSave"/>
+    <item android:title="@string/select" android:id="@+id/menuSelect"/>
+    <item android:title="@string/deselect" android:id="@+id/menuDeselect"/>
+    <item android:title="@string/delete" android:id="@+id/menuDelete"/>
+    <item android:title="@string/settings" android:id="@+id/menuSettings"/>
+
+</menu>

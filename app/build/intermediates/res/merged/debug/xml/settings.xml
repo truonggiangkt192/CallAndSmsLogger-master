@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <EditTextPreference android:key="email"
+                        android:summary="@string/edit_text_pref_summary"
+                        android:title="@string/edit_text_pref_title"
+                        android:hint="@string/edit_text_pref_hint"
+                        android:inputType="textEmailAddress"/>
+
+    <ListPreference android:key="langCode"
+                    android:title="@string/list_pref_title"
+                    android:summary="@string/lang"
+                    android:entries="@array/language"
+                    android:entryValues="@array/languageCode"/>
+
+</PreferenceScreen>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Android\\Phone_SMS\\Vidu_Call_SmsMessage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\Phone_SMS\\Vidu_Call_SmsMessage\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\Phone_SMS\\Vidu_Call_SmsMessage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_my_sms.xml",
+        "source": "D:\\Android\\Phone_SMS\\Vidu_Call_SmsMessage\\app\\src\\main\\res\\layout\\activity_my_sms.xml"
+    }
+]

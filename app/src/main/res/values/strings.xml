@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Call n SMS Logger</string>
+
+    <color name="blue">#2c86ff</color>
+
+    <!--src-->
+    <string name="incoming">Incoming</string>
+    <string name="outgoing">Outgoing</string>
+    <string name="missed">Missed</string>
+    <string name="inbox">Inbox</string>
+    <string name="sent">Sent</string>
+    <string name="chooser">Send email</string>
+    <string name="date_format">MM_dd_yy__HH_mm</string>
+    <string name="datetime_format">MM/dd/yyyy HH:mm:ss</string>
+    <string name="info_duration">Duration:</string>
+    <string name="info_when">When:</string>
+    <string name="unknown">Unknown</string>
+    <string name="sms_inbox">Inbox</string>
+    <string name="sms_sent">Sent</string>
+    <string name="no_select">No selection</string>
+    <string name="saved">Save successful</string>
+    <string name="check_network">Check network connection</string>
+    <string name="alert_title">Delete call(s)</string>
+    <string name="alert_title2">Delete call</string>
+    <string name="alert_title_sms">Delete sms</string>
+    <string name="alert_msg">Are you sure?</string>
+    <string name="btn_pos">OK</string>
+    <string name="btn_neg">Cancel</string>
+
+    <!--menu-->
+    <string name="send_email">Sent selected by email</string>
+    <string name="save_sd">Save selected on SD</string>
+    <string name="select">Select all</string>
+    <string name="deselect">Deselect all</string>
+    <string name="delete">Delete selected</string>
+    <string name="settings">Settings</string>
+
+    <!--menu-->
+    <string name="call">Call</string>
+    <string name="del">Delete</string>
+
+    <!--xml-->
+    <string name="lang">English</string>
+    <string name="edit_text_pref_title">Email address</string>
+    <string name="edit_text_pref_hint">Email</string>
+    <string name="edit_text_pref_summary">Email for send logs</string>
+    <string name="list_pref_title">Language</string>
+
+    <array name="language">
+        <item>English</item>
+        <item>Русский</item>
+    </array>
+
+    <array name="languageCode">
+        <item>en</item>
+        <item>ru</item>
+    </array>
+
+</resources>

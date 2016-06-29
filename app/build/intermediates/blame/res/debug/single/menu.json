@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Android\\Phone_SMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu_call.xml",
+        "source": "D:\\Android\\Phone_SMS\\app\\src\\main\\res\\menu\\context_menu_call.xml"
+    },
+    {
+        "merged": "D:\\Android\\Phone_SMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "D:\\Android\\Phone_SMS\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\Android\\Phone_SMS\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu_sms.xml",
+        "source": "D:\\Android\\Phone_SMS\\app\\src\\main\\res\\menu\\context_menu_sms.xml"
+    }
+]

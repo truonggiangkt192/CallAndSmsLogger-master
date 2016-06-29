@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Android\\Phone_SMS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\call_fragment.xml",
+        "source": "D:\\Android\\Phone_SMS\\app\\src\\main\\res\\layout\\call_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\Phone_SMS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sms_fragment.xml",
+        "source": "D:\\Android\\Phone_SMS\\app\\src\\main\\res\\layout\\sms_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\Phone_SMS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_fragment.xml",
+        "source": "D:\\Android\\Phone_SMS\\app\\src\\main\\res\\layout\\main_fragment.xml"
+    },
+    {
+        "merged": "D:\\Android\\Phone_SMS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\call_item.xml",
+        "source": "D:\\Android\\Phone_SMS\\app\\src\\main\\res\\layout\\call_item.xml"
+    },
+    {
+        "merged": "D:\\Android\\Phone_SMS\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sms_item.xml",
+        "source": "D:\\Android\\Phone_SMS\\app\\src\\main\\res\\layout\\sms_item.xml"
+    }
+]

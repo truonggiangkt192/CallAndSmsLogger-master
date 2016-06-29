@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="language">
+        <item>Английский</item>
+        <item>Русский</item>
+    </array>
+    <array name="languageCode">
+        <item>en</item>
+        <item>ru</item>
+    </array>
+    <color name="blue">#2c86ff</color>
+    <string name="alert_msg">Вы уверены?</string>
+    <string name="alert_title">Удалить звонок(и)</string>
+    <string name="alert_title2">Удалить звонок</string>
+    <string name="alert_title_sms">Удалить смс</string>
+    <string name="app_name">Call n SMS Logger</string>
+    <string name="btn_neg">Отмена</string>
+    <string name="btn_pos">Да</string>
+    <string name="call">Позвонить</string>
+    <string name="check_network">Проверьте интернет соединение</string>
+    <string name="chooser">Отправить письмо</string>
+    <string name="date_format">dd_MM_yy__HH_mm</string>
+    <string name="datetime_format">dd/MM/yyyy HH:mm:ss</string>
+    <string name="del">Удалить</string>
+    <string name="delete">Удалить выделенные</string>
+    <string name="deselect">Отменить выбор</string>
+    <string name="edit_text_pref_hint">Почта</string>
+    <string name="edit_text_pref_summary">Почта для отправки логов</string>
+    <string name="edit_text_pref_title">Адрес почты</string>
+    <string name="inbox">Входящая</string>
+    <string name="incoming">Входящий</string>
+    <string name="info_duration">Длительность:</string>
+    <string name="info_when">Когда:</string>
+    <string name="lang">Русский</string>
+    <string name="list_pref_title">Язык</string>
+    <string name="missed">Пропущенный</string>
+    <string name="no_select">Ничего не выбрано</string>
+    <string name="outgoing">Исходящий</string>
+    <string name="save_sd">Сохранить выдел. на SD</string>
+    <string name="saved">Сохранено</string>
+    <string name="select">Выбрать все</string>
+    <string name="send_email">Отправ. выдел. по почте</string>
+    <string name="sent">Отправленная</string>
+    <string name="settings">Настройки</string>
+    <string name="sms_inbox">Входящая</string>
+    <string name="sms_sent">Исходящая</string>
+    <string name="unknown">Неизвестный</string>
+</resources>
